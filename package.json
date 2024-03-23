@@ -2,10 +2,15 @@
 	"name": "pikachu-ts",
 	"version": "1.0.0",
 	"main": "src/index.ts",
-	"keywords": [],
+	"keywords": [
+		"Discord bot",
+		"discord.js",
+		"seyfert",
+		"discord"
+	],
 	"author": "enderdev-v",
 	"license": "MIT",
-	"description": "",
+	"description": "test bot with seyfert package",
 	"scripts": {
 		"start": "ts-node src/index.ts",
 		"dev": "ts-node-dev src/index.ts",
